@@ -21,7 +21,7 @@ and usernames.
   the account manager will do everything else - and restart itself
 ! Do not change the executeable name
   
-**Does Metin2 Singapore allow this?** \n
+**Does Metin2 Singapore allow this:**
 Honestly, I don't know why they would not allow this kind of automation, if you don't feel secure using this
 then you might should not use it.
 People do use macros to login aswell, this is just a more advanced version of a macro.
