@@ -6,8 +6,6 @@ and usernames.
 
 [Download](https://github.com/kichiro1337/metin2-sg-login-helper/releases)
 
-**To be clear, this is not a cheat**
-
 **Includes:**
 - Account management system with autosave/load
 - Automatic update checking incase the client is outdated
