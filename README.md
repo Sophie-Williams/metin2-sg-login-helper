@@ -4,6 +4,8 @@ This project was made back in late 2017 with the intention of
 making loging in faster & not having to remember many different passwords
 and usernames.
 
+[Download](https://github.com/kichiro1337/metin2-sg-login-helper/releases)
+
 **Includes:**
 - Account management system with autosave/load
 - Automatic update checking incase the client is outdated
