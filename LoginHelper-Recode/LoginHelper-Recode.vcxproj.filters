@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="NewFilter1">
+      <UniqueIdentifier>{b1345e51-069c-4f9e-afd8-b3858841012a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="C\Helper\debug.cpp" />
+    <ClCompile Include="C\mainfn.cpp" />
+    <ClCompile Include="C\Main.cpp" />
+    <ClCompile Include="C\Helper\Files\filework.cpp" />
+    <ClCompile Include="C\Helper\Files\game.cpp" />
+    <ClCompile Include="C\Helper\alivecheck.cpp" />
+    <ClCompile Include="C\Helper\Discord.cpp" />
+    <ClCompile Include="C\Helper\Files\Download.cpp" />
+    <ClCompile Include="C\Helper\login.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="H\inc.h" />
+    <ClInclude Include="H\Helper\debug.h" />
+    <ClInclude Include="H\mainfn.h" />
+    <ClInclude Include="H\Helper\Files\filework.h" />
+    <ClInclude Include="H\Helper\Files\game.h" />
+    <ClInclude Include="H\Helper\alivecheck.h" />
+    <ClInclude Include="H\Helper\Discord.h" />
+    <ClInclude Include="H\Helper\Files\Download.h" />
+    <ClInclude Include="H\Helper\login.h" />
+  </ItemGroup>
+</Project>
