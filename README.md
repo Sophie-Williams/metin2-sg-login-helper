@@ -22,10 +22,10 @@ and usernames.
 ! Do not change the executeable name
   
 **Does Metin2 Singapore allow this:**
-Honestly, I don't know why they would not allow this kind of automation, if you don't feel secure using this
+- Honestly, I don't know why they would not allow this kind of automation, if you don't feel secure using this
 then you might should not use it.
-People do use macros to login aswell, this is just a more advanced version of a macro.
-& Metin2 Singapore does not have any client-sided 'anti-cheating' measures in place so there is nothing to worry about.
+- People do use macros to login aswell, this is just a more advanced version of a macro.
+- Metin2 Singapore does not have any client-sided 'anti-cheating' measures in place so there is nothing to worry about.
 
 The project is fairly old and so is my coding style in this.
 I was thinking about re-coding this project, but I have no use for this anymore
